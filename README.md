@@ -1,9 +1,9 @@
-# ✨ Vidhan Vispute
+# ✨ Vidhan Vilas Vispute
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=&fontSize=0" width="100%"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;DevOps+Engineer;Cloud+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;DevOps+Engineer" alt="Typing SVG" />
   
   <br/>
   
@@ -16,10 +16,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=VidhanVilaVispute&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&border_radius=15&title_color=4F46E5&icon_color=4F46E5&text_color=E5E7EB&ring_color=4F46E5" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=VidhanVispute&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&border_radius=15&title_color=4F46E5&icon_color=4F46E5&text_color=E5E7EB&ring_color=4F46E5" width="400"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VidhanVilasVispute&theme=tokyonight&background=0D1117&hide_border=true&border_radius=15&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" width="400"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VidhanVispute&theme=tokyonight&background=0D1117&hide_border=true&border_radius=15&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" width="400"/>
       </td>
     </tr>
   </table>
@@ -41,7 +41,7 @@ Status: "Building the future, one commit at a time"
 - 🎯 **Mission:** Transforming ideas into scalable digital solutions
 - 🌟 **Expertise:** End-to-end application lifecycle management
 - 💡 **Innovation:** Pioneering DevOps practices and automation
-- 📧 **Contact:** [vidhan.cyberstack.titan@gmail.com](mailto:vidhan.cyberstack.titan@gmail.com)
+- 📧 **Contact:** [vispute.vidhan@gmail.com](mailto:vidhan.cyberstack.titan@gmail.com)
 
 ---
 
@@ -57,7 +57,7 @@ Status: "Building the future, one commit at a time"
   <a href="https://www.instagram.com/vidhan_vispute/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
-  <a href="https://github.com/VidhanVilasVispute" target="_blank">
+  <a href="https://github.com/VidhanVispute" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=4F46E5" alt="Portfolio"/>
   </a>
 </div>
