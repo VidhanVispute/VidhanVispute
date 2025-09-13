@@ -33,7 +33,7 @@
 Name: "Vidhan Vispute"
 Role: "Senior Full-Stack Developer & DevOps Engineer"
 Location: "India 🇮🇳"
-Focus: ["Scalable Architecture", "Cloud-Native Solutions", "DevOps Excellence"]
+Focus: ["Scalable Architecture", "DevOps Excellence"]
 Status: "Building the future, one commit at a time"
 ```
 
